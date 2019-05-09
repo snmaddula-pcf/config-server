@@ -1,1 +1,1 @@
-# [POC] Spring Cloud Config using PCF `config-server` service
+### [DEMO] Spring Cloud Config using PCF `config-server` service
